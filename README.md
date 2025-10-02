@@ -50,7 +50,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 # Product Backlog
 
-| Rank | Prioridade | User Story                                                                                                                                                   | Sprint |
+| Rank | Prioridade | User Story                                                                                                                                                         | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
 | 1    | Alta       | Como aprendizes de analista, mapearemos o ecossistema industrial de serviços de São José dos Campo-SP e região, identificando os principais setores, processos produtivos e desafios tecnológicos das empresas locais                                                    | 5          | 1      |
 | 2    | Alta       | Como atendente, quero gerenciar as solicitações de vistoria para agendar atendimento                                                                    | 8          | 1      |
